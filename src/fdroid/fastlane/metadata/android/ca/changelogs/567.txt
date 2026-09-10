@@ -1,0 +1,13 @@
+Millores:
+- Ara manté el contingut del redactor quan es reinicia l'app o es canvia el tema
+
+Correccions:
+- Posició de pissarra que no es desava o es restaurava en lloc erroni
+- Ordre de pissarres amb comptes d'ids no numèrics (GoToSocial)
+- Enllaços a pàgines fora del fedivers que obrien un contingut arroni a l'app
+- Fallida de memòria després d'una llarga navegació
+- Problemes de memòria amb els emojis personalitzats molt grans
+- Filtració de memòria en tancar una pantalla amb vídeos
+- Fallida de memòria amb l'autoreproducció de vídeos
+- Fallida en sortir ràpid de la pantalla
+- Pissarres lentes quan es rodolava per publicacions amb citacions

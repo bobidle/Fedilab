@@ -1,0 +1,12 @@
+Millores:
+- Mostra la numeració de les llistes cordenades en les publicacions
+
+Correccions:
+- Mencions que s'obrien al navegador i no a l'app
+- Vídeos de PeerTube videos que no s'obrien o no anaven
+- Format que es perdia en publicacions quan s'habilitava el suport a Marcatge
+- Cites que es mostraven sense decoració
+- Botó de "Sols local" que es desplaçava sobre el d'enviar mentre s'escrivia
+- Posició de notificacions que no es restaurava després d'un reinici
+- Pissarra que retrocedia en el temps amb GoToSocial
+- Només es callegaven les primeres cent etiquetes de seguiment
